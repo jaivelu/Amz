@@ -17,4 +17,13 @@ public class TestGit {
 		System.out.println("3");
 	}
 
+	private void four() {
+		System.out.println("4");
+
+	}
+	
+	private void five() {
+		System.out.println("5");
+
+	}
 }
